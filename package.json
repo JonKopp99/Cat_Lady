@@ -1,0 +1,22 @@
+{
+  "name": "cat_lady_routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonKopp99/Cat_Lady.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonKopp99/Cat_Lady/issues"
+  },
+  "homepage": "https://github.com/JonKopp99/Cat_Lady#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

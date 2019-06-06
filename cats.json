@@ -1,0 +1,25 @@
+{
+"buttons": {
+    "name" : "buttons",
+    "age" : "11",
+    "color" : "purple"
+},
+
+"SwoleJon" : {
+    "name" : "SwoleJon",
+    "age" : "100",
+    "color" : "colorful"
+},
+
+"Barby" : {
+    "name" : "Barby",
+    "age" : "11",
+    "color" : "blue"
+},
+
+"Happy": {
+    "name" : "happy",
+    "age" : "12",
+    "color" : "green"
+}
+}
